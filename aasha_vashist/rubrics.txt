@@ -1,0 +1,35 @@
+FENRIR PROJECT - 30 EVALUATION RUBRICS
+========================================
+
+1. The project name reads exactly "Fenrir" on every submitted document and screen mockup.
+2. The tagline reads exactly "Online Gaming Platform" on every submitted document and screen mockup.
+3. The overview.txt document contains a clearly defined product vision statement.
+4. The overview.txt document identifies the target audience with age range and gamer type.
+5. The overview.txt document lists at least five core features of the gaming platform.
+6. The scope_of_work.txt document separates deliverables into in-scope and out-of-scope sections.
+7. The scope_of_work.txt document specifies the frontend technology stack.
+8. The scope_of_work.txt document specifies the backend technology stack.
+9. The scope_of_work.txt document includes a project timeline with at least five phases.
+10. The scope_of_work.txt document lists required team roles and headcount.
+11. The assets.pdf document contains a visual assets section listing at least five asset types.
+12. The assets.pdf document contains an audio assets section listing at least three asset types.
+13. The assets.pdf document specifies a color palette with at least six named colors and hex codes.
+14. The assets.pdf document includes file naming conventions for icons, images, and audio.
+15. The assets.pdf document is delivered in PDF format and is valid (opens correctly).
+16. The reference_image.png has a resolution of at least 1200 x 800 pixels.
+17. The reference_image.png uses a dark gaming-themed color scheme as the primary background.
+18. The reference_image.png contains the project name "FENRIR" as visible text.
+19. The reference_image.png contains at least one geometric shape (hexagon, polygon, or grid) as a design element.
+20. The reference_image.png is delivered in PNG format only (not JPG, GIF, or SVG).
+21. The instructions.md document specifies all prerequisites with software names and versions.
+22. The instructions.md document includes step-by-step setup instructions using a code block.
+23. The instructions.md document contains commands for installing dependencies.
+24. The instructions.md document contains commands for database setup and migration.
+25. The instructions.md document is formatted using valid Markdown with at least two heading levels.
+26. The rubrics document contains exactly 30 numbered rubric criteria.
+27. Every rubric criterion is written as a measurable, binary (pass/fail) statement.
+28. The folder name follows the first_last naming convention exactly (aasha_vashist).
+29. No submitted document or screen mockup contains a hyperlink, URL, or web address (except the GitHub repo link).
+30. All six required files (overview.txt, scope_of_work.txt, assets.pdf, reference_image.png, instructions.md, rubrics.txt) are present in the submission folder.
+
+SCORING: 1 point per criterion | TOTAL: 30 points | PASSING: 20 points

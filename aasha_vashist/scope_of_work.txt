@@ -1,0 +1,59 @@
+FENRIR PROJECT - SCOPE OF WORK
+================================
+
+1. IN-SCOPE DELIVERABLES
+   a. Frontend Development
+      - Responsive web application using React.js
+      - Game discovery and library pages
+      - User profile and dashboard
+      - Real-time matchmaking interface
+      - Community forum and chat UI
+      - Admin panel for content management
+
+   b. Backend Development
+      - RESTful API architecture using Node.js/Express
+      - WebSocket server for real-time communication
+      - User authentication (JWT-based)
+      - Game state synchronization service
+      - Matchmaking algorithm implementation
+      - Database design and management (PostgreSQL + Redis)
+
+   c. Infrastructure
+      - Cloud deployment on AWS (EC2, S3, RDS)
+      - CI/CD pipeline setup (GitHub Actions)
+      - Load balancing and auto-scaling configuration
+      - Monitoring and logging (CloudWatch)
+
+   d. Documentation
+      - API documentation (Swagger/OpenAPI)
+      - Deployment and operations guide
+      - Developer onboarding documentation
+
+2. OUT-OF-SCOPE
+   - Native mobile app development (iOS/Android)
+   - Game development (assets, engine, logic)
+   - Payment gateway integration (Phase 2)
+   - Third-party platform integrations (Phase 2)
+
+3. TECHNICAL STACK
+   - Frontend: React.js, Redux, Tailwind CSS
+   - Backend: Node.js, Express, Socket.io
+   - Database: PostgreSQL, Redis
+   - Cloud: AWS (EC2, S3, RDS, ElastiCache)
+   - DevOps: Docker, GitHub Actions, Nginx
+
+4. PROJECT TIMELINE
+   Phase 0: Planning and Design (Weeks 1-2)
+   Phase 1: Core Infrastructure (Weeks 3-4)
+   Phase 2: User System (Weeks 5-6)
+   Phase 3: Game Integration (Weeks 7-8)
+   Phase 4: Community Features (Weeks 9-10)
+   Phase 5: Testing and Launch (Weeks 11-12)
+
+5. RESOURCE REQUIREMENTS
+   - 2 Frontend Developers
+   - 2 Backend Developers
+   - 1 DevOps Engineer
+   - 1 QA Engineer
+   - 1 UI/UX Designer
+   - 1 Project Manager
